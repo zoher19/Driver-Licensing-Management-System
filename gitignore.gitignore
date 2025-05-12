@@ -1,0 +1,57 @@
+# Ignore build results
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+
+# Ignore VS folders
+.vs/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Ignore publish outputs
+publish/
+
+# Ignore database local files
+*.mdf
+*.ldf
+
+# Ignore Rider IDE settings
+.idea/
+
+# Ignore Mac OS files
+.DS_Store
+
+# Ignore node_modules (if used later)
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore compiled DLLs
+*.dll
+
+# Ignore backup files
+*.bak
+
+# Ignore Test Results
+TestResults/
+
+# Ignore Packages folder
+packages/
+
+# Ignore ReSharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Ignore nuget package folder
+*.nupkg
